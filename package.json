@@ -3,7 +3,7 @@
   "publisher": "Yrobot",
   "displayName": "小程序自定义组件标签跳转到文件",
   "description": "可以在wxml页面，'alt + 点击自定义组件标签名'跳转到相对应的组件页面",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.33.0"
   },
@@ -14,6 +14,7 @@
     "onLanguage:wxml"
   ],
   "main": "./out/extension.js",
+  "icon": "logo.png",
   "contributes": {},
   "scripts": {
     "vscode:prepublish": "npm run compile",
