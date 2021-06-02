@@ -1,4 +1,6 @@
 out
 node_modules
 .vscode-test/
+yarn.lock
 *.vsix
+.DS_Store

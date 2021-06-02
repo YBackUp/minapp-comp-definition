@@ -1,4 +1,8 @@
-# minapp-comp-definition 小程序组件提示器
+# @yrobot/minapp-comp-definition 小程序组件提示器
+
+base on https://github.com/wjf2016/minapp-comp-definition
+
+修复：json相对路径跳转的支持
 
 ## 功能
 
@@ -18,4 +22,4 @@
 
 有任何问题都欢迎提出，或者有需求也可以提出！
 
-[https://github.com/wjf2016/minapp-comp-definition](https://github.com/wjf2016/minapp-comp-definition)
+[https://github.com/YBackUp/minapp-comp-definition](https://github.com/YBackUp/minapp-comp-definition)
